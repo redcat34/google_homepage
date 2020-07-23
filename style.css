@@ -1,0 +1,102 @@
+body {
+    font-size: 13px;
+  }
+  
+  .btn {
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  
+  a {
+    color: #000000;
+  }
+  
+  .top-navigation {
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 30px;
+  }
+  
+  .top-navigation a {
+    padding: 10px;
+  }
+  
+  .menu {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .logo {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 30px;
+  }
+  
+  .search {
+    margin: 0 auto;
+    display: inline;
+  }
+  
+  form {
+    text-align: center;
+    width: 0 auto;
+  }
+  
+  .search-bar {
+    border-radius: 25px;
+    border: 1px solid #e3e3e3;
+    width: 570px;
+    height: 45px;
+    text-align: center;
+  }
+  
+  .search-button {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .language {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .loop {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline;
+  }
+  
+  .mic {
+    position: absolute;
+    margin-right: 20px;
+    margin-top: 10px;
+    display: inline;
+  }
+  
+  #footer {
+    background-color: #f2f2f2;
+    bottom: 0;
+    display: block;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  #footer a {
+    margin-left: 30px;
+    color: #5f6368;
+  }
+  
+  .footer-left {
+    float: left;
+    display: inline-block;
+  
+  }
+  
+  .footer-right {
+    float: right;
+    margin-right: 30px;
+    display: block;
+  }
